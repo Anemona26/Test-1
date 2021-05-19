@@ -1,12 +1,23 @@
 
 --Exercitiul 1
 
---a) Valoarea variabilei numar în subbloc este: 2
---b) Valoarea variabilei mesaj1 în subbloc este: text 2
---c) Valoarea variabilei mesaj2 în subbloc este: text 3 adaugat in sub-bloc
---d) Valoarea variabilei numar în bloc este: 101 
---e) Valoarea variabilei mesaj1 în bloc este: text 1 adaugat un blocul principal
---f) Valoarea variabilei mesaj2 în bloc este: text 2 adaugat in blocul principal
+
+
+
+
+
+
+
+
+
+
+
+--a) Valoarea variabilei numar Ã®n subbloc este: 2
+--b) Valoarea variabilei mesaj1 Ã®n subbloc este: text 2
+--c) Valoarea variabilei mesaj2 Ã®n subbloc este: text 3 adaugat in sub-bloc
+--d) Valoarea variabilei numar Ã®n bloc este: 101 
+--e) Valoarea variabilei mesaj1 Ã®n bloc este: text 1 adaugat un blocul principal
+--f) Valoarea variabilei mesaj2 Ã®n bloc este: text 2 adaugat in blocul principal
 
 DECLARE
 numar number(3):=100;
